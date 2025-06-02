@@ -1,4 +1,3 @@
-// File: A1_Task 4_S13_20230452_20230292_20230284
 
 // Purpose: our vole machine lets you load and run programs written as hexadecimal instructions.
 //          You can either go through each instruction one at a time or run the entire program all
@@ -10,7 +9,6 @@
 //         Caroline Ayman Isaac
 
 // Section: S 13
-// ID: 20230452 - 20230284 - 20230292
 
 // Date: 1/11/2024
 
